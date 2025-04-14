@@ -1,8 +1,9 @@
 ## Project Title:  
-Example Python Project
+Ai Code Assistant
 
 ## Description:
-This is an example Python project.
+This code provides an AI-powered code assistant that helps users manage and modify code files efficiently using natural language instructions.
+
 
 ## Installation:
 1. Clone the repository:
@@ -21,7 +22,7 @@ This is an example Python project.
 ## Usage:
 To run the main script, use the following command:
    ```bash
-   python3 main.py
+   python3 agent.py
    ```
 
 ## Contributing:
