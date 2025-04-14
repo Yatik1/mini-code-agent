@@ -1,11 +1,31 @@
-## Cloning the code from GitHub
+## Project Title:  
+Example Python Project
 
-Follow these steps to clone the code to your local system:
+## Description:
+This is an example Python project.
 
-1. Open your terminal or command prompt.
-2. Navigate to the directory where you want to clone the repository.
-3. Run the following command, replacing  with the actual URL of the GitHub repository:
-   `git clone [repository_url]`
-4. Once the cloning is complete, you can navigate into the cloned directory using:
-   `cd [repository_name]`
+## Installation:
+1. Clone the repository:
+   ```bash
+   git clone <https://github.com/Yatik1/mini-code-agent>
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd <project_directory>
+   ```
+3. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+## Usage:
+To run the main script, use the following command:
+   ```bash
+   python3 main.py
+   ```
+
+## Contributing:
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
