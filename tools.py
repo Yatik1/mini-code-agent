@@ -28,6 +28,8 @@ def run_git(_):
             text=True
         )
 
+        subprocess.run(["git", "push"], check=True)
+
         if "nothing to commit" in result.stderr.lower():
             return "✅ Nothing to commit. Working tree clean."
         
